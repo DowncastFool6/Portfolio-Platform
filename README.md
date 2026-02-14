@@ -1,5 +1,9 @@
-# 📄 Portfolio Platform (ASP.NET Core MVC + MongoDB + SQL Server)
+# 📄 Portfolio Platform
 
+![.NET](https://img.shields.io/badge/.NET-8-blue)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-MVC-green)
+![MongoDB](https://img.shields.io/badge/MongoDB-4.4-brightgreen)
+![SQL Server](https://img.shields.io/badge/SQL_Server-2019-blue)
 ---
 
 ## 📜 License
